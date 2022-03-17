@@ -1,4 +1,4 @@
-### Quick hitter to try out three.js. Inpried by this [fireship.io video](https://www.youtube.com/watch?v=Q7AOvWpIVHU).
+### Quick hitter to try out three.js. Inspired by this [fireship.io video](https://www.youtube.com/watch?v=Q7AOvWpIVHU).
 
 <hr>
 
