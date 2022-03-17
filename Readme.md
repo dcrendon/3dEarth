@@ -1,4 +1,4 @@
-### This is a quick three.js test I did. Probably will be doing more of this.
+### Quick hitter to try out three.js. Inpried by this [fireship.io video](https://www.youtube.com/watch?v=Q7AOvWpIVHU).
 
 <hr>
 
